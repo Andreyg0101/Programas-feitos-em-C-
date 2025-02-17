@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\andrey_vetor\andrey_vetor\bin\Debug\andrey_vetor.exe.config
+C:\Users\andre\source\repos\andrey_vetor\andrey_vetor\bin\Debug\andrey_vetor.exe
+C:\Users\andre\source\repos\andrey_vetor\andrey_vetor\bin\Debug\andrey_vetor.pdb
+C:\Users\andre\source\repos\andrey_vetor\andrey_vetor\obj\Debug\andrey_vetor.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\andrey_vetor\andrey_vetor\obj\Debug\andrey_vetor.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\andrey_vetor\andrey_vetor\obj\Debug\andrey_vetor.exe
+C:\Users\andre\source\repos\andrey_vetor\andrey_vetor\obj\Debug\andrey_vetor.pdb
