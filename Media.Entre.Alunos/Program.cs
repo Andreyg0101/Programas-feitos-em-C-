@@ -6,19 +6,32 @@ namespace Media_entre_alunos
     {
         static void Main(string[] args)
         {
-            double N1, N2, N3, media;
-            Console.WriteLine("Escreva as notas do aluno: ");
-            Console.WriteLine("1º nota: ");
-            N1 = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("2º nota: ");
-            N2 = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("3º nota: ");
-            N3 = Convert.ToDouble(Console.ReadLine());
-            media = (N1 + N2 + N3);
-            Console.WriteLine("A média do aluno é: ");
-            Console.WriteLine(media);
+            double n1, n2, n3, n4, media;
+            Console.WriteLine("Digite a primeria nota: ");
+            n1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite a primeria nota: ");
+            n2 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite a primeria nota: ");
+            n3 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite a primeria nota: ");
+            n4 = Convert.ToDouble(Console.ReadLine());
+            media = (n1 + n2 + n3 + n4) / 4;
+            Console.WriteLine("media: " + media);
+            if (media >= 7)
+            {
+                Console.WriteLine("APROVADO");
+            }
+            else if (media >= 4 && media < 6)
+            {
+                Console.WriteLine("RECUPERAÇÃO");
+            }
+            else
+            {
+                Console.WriteLine("REPROVADO");
+            }
 
             Console.ReadKey();
         }
+
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\Calculos\Media.Entre.Alunos\bin\Debug\Media entre alunos.exe.config
+C:\Users\andre\source\repos\Calculos\Media.Entre.Alunos\bin\Debug\Media entre alunos.exe
+C:\Users\andre\source\repos\Calculos\Media.Entre.Alunos\bin\Debug\Media entre alunos.pdb
+C:\Users\andre\source\repos\Calculos\Media.Entre.Alunos\obj\Debug\Media.Entre.Alunos.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Calculos\Media.Entre.Alunos\obj\Debug\Media.Entre.Alunos.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Calculos\Media.Entre.Alunos\obj\Debug\Media entre alunos.exe
+C:\Users\andre\source\repos\Calculos\Media.Entre.Alunos\obj\Debug\Media entre alunos.pdb
