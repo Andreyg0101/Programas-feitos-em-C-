@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\Calculos\Dias.De.Vida\bin\Debug\Dias.De.Vida.exe.config
+C:\Users\andre\source\repos\Calculos\Dias.De.Vida\bin\Debug\Dias.De.Vida.exe
+C:\Users\andre\source\repos\Calculos\Dias.De.Vida\bin\Debug\Dias.De.Vida.pdb
+C:\Users\andre\source\repos\Calculos\Dias.De.Vida\obj\Debug\Dias.De.Vida.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Calculos\Dias.De.Vida\obj\Debug\Dias.De.Vida.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Calculos\Dias.De.Vida\obj\Debug\Dias.De.Vida.exe
+C:\Users\andre\source\repos\Calculos\Dias.De.Vida\obj\Debug\Dias.De.Vida.pdb
