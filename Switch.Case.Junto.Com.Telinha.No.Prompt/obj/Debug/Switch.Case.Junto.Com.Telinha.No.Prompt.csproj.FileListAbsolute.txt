@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\Calculos\Switch.Case.Junto.Com.Telinha.No.Prompt\bin\Debug\Switch.Case.Junto.Com.Telinha.No.Prompt.exe.config
+C:\Users\andre\source\repos\Calculos\Switch.Case.Junto.Com.Telinha.No.Prompt\bin\Debug\Switch.Case.Junto.Com.Telinha.No.Prompt.exe
+C:\Users\andre\source\repos\Calculos\Switch.Case.Junto.Com.Telinha.No.Prompt\bin\Debug\Switch.Case.Junto.Com.Telinha.No.Prompt.pdb
+C:\Users\andre\source\repos\Calculos\Switch.Case.Junto.Com.Telinha.No.Prompt\obj\Debug\Switch.Case.Junto.Com.Telinha.No.Prompt.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Calculos\Switch.Case.Junto.Com.Telinha.No.Prompt\obj\Debug\Switch.Case.Junto.Com.Telinha.No.Prompt.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Calculos\Switch.Case.Junto.Com.Telinha.No.Prompt\obj\Debug\Switch.Case.Junto.Com.Telinha.No.Prompt.exe
+C:\Users\andre\source\repos\Calculos\Switch.Case.Junto.Com.Telinha.No.Prompt\obj\Debug\Switch.Case.Junto.Com.Telinha.No.Prompt.pdb
