@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\Calculos\Media.De.Notas.Varios.Alunos\bin\Debug\Media.De.Notas.Varios.Alunos.exe.config
+C:\Users\andre\source\repos\Calculos\Media.De.Notas.Varios.Alunos\bin\Debug\Media.De.Notas.Varios.Alunos.exe
+C:\Users\andre\source\repos\Calculos\Media.De.Notas.Varios.Alunos\bin\Debug\Media.De.Notas.Varios.Alunos.pdb
+C:\Users\andre\source\repos\Calculos\Media.De.Notas.Varios.Alunos\obj\Debug\Media.De.Notas.Varios.Alunos.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Calculos\Media.De.Notas.Varios.Alunos\obj\Debug\Media.De.Notas.Varios.Alunos.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Calculos\Media.De.Notas.Varios.Alunos\obj\Debug\Media.De.Notas.Varios.Alunos.exe
+C:\Users\andre\source\repos\Calculos\Media.De.Notas.Varios.Alunos\obj\Debug\Media.De.Notas.Varios.Alunos.pdb
